@@ -1,12 +1,12 @@
 import './App.css'
-import Button from './components/buttons'
+import PokemonList from './components/pokemonList'
 
 function App() {
 
 
   return (
     <>
-      <Button/>
+      <PokemonList />
     </>
   )
 }
