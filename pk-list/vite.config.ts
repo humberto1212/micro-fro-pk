@@ -10,7 +10,8 @@ export default defineConfig({
            name: 'remotecomponent1',
            filename: 'remoteEntry.js',
            exposes: {
-               './Button': './src/components/buttons.tsx'
+               './Button': './src/components/buttons.tsx',
+               './PokemonList': './src/components/pokemonList.tsx'
            },
            shared: ['react', 'react-dom'],
       }),
