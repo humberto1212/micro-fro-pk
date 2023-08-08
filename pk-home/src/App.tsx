@@ -1,6 +1,6 @@
 import './App.css'
 
-import Button from 'pklist/Button'
+import PokemonList from 'pklist/PokemonList'
 
 function App() {
 
@@ -8,8 +8,9 @@ function App() {
   return (
     <>
 
-      <h1>Host Component</h1>
-      <Button/>
+      <h1>PokemonList</h1>
+      <PokemonList />
+
 
     </>
   )
