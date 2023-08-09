@@ -1,0 +1,5 @@
+In this repository, my objective is to immerse myself in the world of micro frontends, harnessing the capabilities of vite-plugin-federation. My approach is fundamentally practical, driven by the desire to showcase the creation of multiple micro frontends in action.
+
+I've taken the initiative to develop distinct micro frontends as part of my project. One of these micro frontends takes the form of a list, allowing me to tangibly demonstrate how vite-plugin-federation can be leveraged. Additionally, I've conceptualized a micro frontend that embodies a layout structure, serving as a prime example of how the framework empowers me to establish consistent visual themes and arrangements. It's important to note that I intentionally refrained from incorporating specific functionalities or stylings into these examples. This decision underscores my focus on the integration aspects of micro frontends.
+
+At the core of my efforts lies the creation of a host micro frontend. This host acts as a pivotal component, seamlessly weaving together the various micro frontends into a unified and seamless user experience. 
