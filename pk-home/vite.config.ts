@@ -11,7 +11,8 @@ export default defineConfig({
       name: 'remotecomponent1',
       remotes: [
         {
-          pklist: 'http://localhost:5173/assets/remoteEntry.js'
+          pklist: 'http://localhost:5173/assets/remoteEntry.js',
+          pklayout: 'http://localhost:5175/assets/remoteEntry.js'
           // sharedComp: {
           //   external: `Promise.resolve(window.remoteURL)`,
           //   from: 'vite',
